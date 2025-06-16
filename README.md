@@ -51,15 +51,15 @@ Deepen my understanding of Softmax Regression by building it from scratch.
 Practice clean, readable, and well-commented code.
 Visualize what the model “learns” and how it makes decisions.
 Show my ability to work with both toy and real datasets.
-Provide an educational resource for others getting started with multi-class classification.
+Provide an educational resource for others getting started with multi-class classification. <br/>
 📊 Example Results
 Achieved ~90% validation accuracy on MNIST with a single-layer Softmax classifier.
 Visualized model weight matrices as images to interpret what the model “sees” for each digit.
-Illustrated clear separation and decision boundaries on synthetic data.
+Illustrated clear separation and decision boundaries on synthetic data.<br/>
 🤖 Libraries Used
 PyTorch (torch, torch.nn, torch.utils.data)
 torchvision (for MNIST dataset)
-matplotlib, numpy
+matplotlib, numpy<br/>
 🧑‍💻 About Me
 My name is Chris. I'm passionate about machine learning, deep learning, and making complex ideas accessible. My goal with this repo is not just to “get results,” but to demonstrate and teach the underlying process.
 
