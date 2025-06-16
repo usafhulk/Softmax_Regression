@@ -44,7 +44,7 @@ For MNIST experiments, use Softmax Classifier.ipynb or Softmax.ipynb.
 For a didactic, line-by-line intro, try Softmax Classifier 1D.ipynb.
 The MNIST data will be downloaded automatically if missing.
 
-🌟 Why This Project?
+#### 🌟 Why This Project?
 I created this project to:
 
 Deepen my understanding of Softmax Regression by building it from scratch.
@@ -53,23 +53,20 @@ Visualize what the model “learns” and how it makes decisions.
 Show my ability to work with both toy and real datasets.
 Provide an educational resource for others getting started with multi-class classification. <br/>
 <br/>
-<br/>
-<br/>
-📊 Example Results
+
+#### 📊 Example Results
 Achieved ~90% validation accuracy on MNIST with a single-layer Softmax classifier.
 Visualized model weight matrices as images to interpret what the model “sees” for each digit.
 Illustrated clear separation and decision boundaries on synthetic data.<br/>
 <br/>
-<br/>
-<br/>
-🤖 Libraries Used
+
+#### 🤖 Libraries Used
 PyTorch (torch, torch.nn, torch.utils.data)
 torchvision (for MNIST dataset)
 matplotlib, numpy<br/>
 <br/>
-<br/>
-<br/>
-🧑‍💻 About Me
+
+#### 🧑‍💻 About Me
 My name is Chris. I'm passionate about machine learning, deep learning, and making complex ideas accessible. My goal with this repo is not just to “get results,” but to demonstrate and teach the underlying process.
 
 If you have feedback, ideas, or questions, feel free to reach out or open an issue!
