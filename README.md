@@ -47,20 +47,20 @@ The MNIST data will be downloaded automatically if missing.
 ## 🌟 Why This Project?
 I created this project to:
 
-- Deepen my understanding of Softmax Regression by building it from scratch.
-- Practice clean, readable, and well-commented code.
-- Visualize what the model “learns” and how it makes decisions.
-- Show my ability to work with both toy and real datasets.
+- Deepen my understanding of Softmax Regression by building it from scratch. <br/>
+- Practice clean, readable, and well-commented code. <br/>
+- Visualize what the model “learns” and how it makes decisions. <br/>
+- Show my ability to work with both toy and real datasets. <br/>
 - Provide an educational resource for others getting started with multi-class classification. <br/>
 <br/>
-## 📊 Example Results
-- Achieved ~90% validation accuracy on MNIST with a single-layer Softmax classifier.
-- Visualized model weight matrices as images to interpret what the model “sees” for each digit.
+## 📊 Example Results<br/>
+- Achieved ~90% validation accuracy on MNIST with a single-layer Softmax classifier. <br/>
+- Visualized model weight matrices as images to interpret what the model “sees” for each digit. <br/>
 - Illustrated clear separation and decision boundaries on synthetic data.<br/>
 <br/>
-## 🤖 Libraries Used
-- PyTorch (torch, torch.nn, torch.utils.data)
-- torchvision (for MNIST dataset)
+## 🤖 Libraries Used <br/>
+- PyTorch (torch, torch.nn, torch.utils.data) <br/>
+- torchvision (for MNIST dataset) <br/>
 - matplotlib, numpy<br/>
 <br/>
 ## 🧑‍💻 About Me
