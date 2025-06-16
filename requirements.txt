@@ -1,0 +1,14 @@
+import torch
+import torch.nn as nn
+import torch.optim as optim
+import torchvision.transforms as transforms  # Image preprocessing transformations
+import torchvision.datasets as datasets     # Pre-built datasets including MNIST
+import torchvision.datasets as dsets
+import matplotlib.pyplot as plt
+import matplotlib.pylab as plt
+import numpy as np
+from torch.utils.data import DataLoader
+
+
+
+
